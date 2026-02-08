@@ -28,8 +28,6 @@ Moving beyond the regional fluid dynamics of [Core Theory (v2.0)](https://github
 ---
 
 ## 🌍 v3.0: Planetary Scale (惑星規模)
-
-### Axioms
 ![](https://github.com/SBCM-Alliance/extended-theory/blob/main/v3.0-Topological-Global-Economics/Axioms-SBCM-v3.0.jpg)
 
 ### **[Topological Global Economics](https://doi.org/10.5281/zenodo.18522362)**
