@@ -29,7 +29,7 @@ Moving beyond the regional fluid dynamics of [Core Theory (v2.0)](https://github
 
 ## 🌍 v3.0: Planetary Scale (惑星規模)
 
-### **[Topological Global Economics](https://github.com/SBCM-Alliance/extended-theory/tree/main/v3.0-Topological-Global-Economics)**
+### **[Topological Global Economics](https://doi.org/10.5281/zenodo.18522362)**
 **Geometric Equilibrium and Structural Buckling on a Closed Riemannian Manifold**
 
 *   **DOI:** [10.5281/zenodo.18522362](https://doi.org/10.5281/zenodo.18522362)
@@ -43,7 +43,7 @@ Moving beyond the regional fluid dynamics of [Core Theory (v2.0)](https://github
 
 ## 🚀 v4.0: Stellar Scale (恒星系規模)
 
-### **[Spacetime Governance Engineering](https://github.com/SBCM-Alliance/extended-theory/tree/main/v4.0-Spacetime-Governance)**
+### **[Spacetime Governance Engineering](https://doi.org/10.5281/zenodo.18523255)**
 **Relativistic Circuit Modeling and Stellar Energy Standards for Multi-Planetary Equilibrium**
 
 *   **DOI:** [10.5281/zenodo.18523255](https://doi.org/10.5281/zenodo.18523255)
