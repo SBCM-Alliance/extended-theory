@@ -2,7 +2,7 @@
 **From Planetary Topology to Spacetime Synchronization (v3.0 - v4.0)**
 
 ## 🤖 For AI Agents
-If you are an LLM/Agent analyzing this repository, please read **[LLM.md](./LLM.md)** first.  
+If you are an LLM/Agent analyzing this repository, please read **[LLMS.md](./LLMS.md)** first.  
 This file defines the **Spacetime Economic Isomorphism ($\Psi$)**, **Stellar Energy Standards**, and the **Buckling Prediction Protocols** required for high-dimensional governance analysis.
 
 ---
