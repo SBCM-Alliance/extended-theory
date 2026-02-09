@@ -8,9 +8,11 @@ This document defines the core mathematical framework of the **Governance Engine
 The base metrics for quantizing social and economic influence.
 
 ### 1. Statistical Normalization (Quantum of Governance)
-Normalizes heterogeneous municipal data into a standardized governance unit ($B_{std}$).
+Normalizes heterogeneous municipal data into a standardized governance unit ($B_{std}$).For the Japan 2024 Model, it is defined as:
   
 $$B_{std} = \frac{P_{total}}{N_{muni}} \approx 72,176 \text{ [persons/block]}$$
+
+(Note: Rounded to $7.2 \times 10^4$ for general engineering specifications.)
 
 ### 2. Complex Economic Mass (Vectorial Wealth)
 Distinguishes tangible resources from information-based credit. The Phase Angle ($\theta$) measures systemic fragility.
